@@ -1,0 +1,46 @@
+{
+  "version": 3,
+  "skills": {
+    "skill-creator": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/skill-creator/SKILL.md",
+      "skillFolderHash": "5ea13a6d9f0d4bb694405d79acd00cadec0d21bb138c4dd10fcf3c500cb835c2",
+      "pluginName": "example-skills",
+      "installedAt": "2026-05-12T05:11:24.753Z",
+      "updatedAt": "2026-05-12T05:11:24.753Z"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "d31e234f0c90694a670222cdd1dafa853e051d7066beda389f1097c22dadd461",
+      "installedAt": "2026-05-12T05:11:32.767Z",
+      "updatedAt": "2026-05-12T05:11:32.767Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "antigravity",
+    "cline",
+    "codex",
+    "cursor",
+    "deepagents",
+    "dexto",
+    "firebender",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-cli",
+    "opencode",
+    "warp",
+    "claude-code",
+    "codebuddy",
+    "hermes-agent",
+    "openclaw"
+  ]
+}
